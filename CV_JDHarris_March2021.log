@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.4.16)  11 MAR 2021 11:18
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.4.16)  7 JUN 2021 22:55
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -903,60 +903,30 @@ f)
 File: resources/europasscv-icons/mail_europass_icon.pdf Graphic file (type pdf)
 
 <use resources/europasscv-icons/mail_europass_icon.pdf>
-
-
-LaTeX Font Warning: Font shape `TU/texgyreheros-regular.otf(1)/m/it' undefined
-(Font)              using `TU/texgyreheros-regular.otf(1)/m/n' instead on input
- line 393.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 393--393
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 393--393
-
- []
-
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 405.
+(Font)              <7> on input line 406.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 405.
+(Font)              <5> on input line 406.
+
 (/usr/local/texlive/2018/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
-Underfull \hbox (badness 1558) in paragraph at lines 405--405
+Underfull \hbox (badness 2126) in paragraph at lines 406--406
 []\TU/texgyreheros-regular.otf(0)/m/n/10 Martin, B.E.*, Harris, J.D.* et al. (2
-020). ”Cellular co-infection can modu-
+020). ”Cellular co-infection can mod-
  []
 
 
-Underfull \hbox (badness 2608) in paragraph at lines 405--405
-\TU/texgyreheros-regular.otf(0)/m/n/10 late the efficiency of influenza A virus
- production and shape the interferon
+Underfull \hbox (badness 1762) in paragraph at lines 406--406
+\TU/texgyreheros-regular.otf(0)/m/n/10 ulate the efficiency of influenza A viru
+s production and shape the interferon
  []
 
 
-Underfull \hbox (badness 1990) in paragraph at lines 405--405
+Underfull \hbox (badness 1990) in paragraph at lines 406--406
 \TU/texgyreheros-regular.otf(0)/m/n/10 response.” PLoS pathogens 16.10: e100897
 4. *authors contributed equally
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 405--405
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 405--405
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 415--415
-
  []
 
 (/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
@@ -967,210 +937,71 @@ File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 448--448
-
- []
-
-
-Underfull \hbox (badness 7981) in paragraph at lines 448--448
+Underfull \hbox (badness 7981) in paragraph at lines 455--455
 []\TU/texgyreheros-regular.otf(0)/m/n/10 Poster presentation – “Modeling asympt
 omatic transmission in COVID-19.”
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 448--448
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 448--448
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 448--448
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 448--448
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 448--448
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 448--448
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 448--448
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 448--448
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 448--448
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 448--448
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 448--448
-
- []
-
-
-Underfull \hbox (badness 2865) in paragraph at lines 448--448
+Underfull \hbox (badness 2865) in paragraph at lines 455--455
 []\TU/texgyreheros-regular.otf(0)/m/n/10 Conference talk – “Bifurcation analysi
 s of the Wilson-Cowan equations with
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 448--448
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 475--475
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 475--475
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 475--475
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 475--475
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 475--475
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 475--475
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 475--475
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 475--475
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 475--475
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 475--475
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 475--475
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 475--475
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 475--475
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 475--475
-
- []
-
 [2] [3] [4]
-Underfull \hbox (badness 10000) in paragraph at lines 709--709
+Underfull \hbox (badness 10000) in paragraph at lines 641--641
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 709--709
+Underfull \hbox (badness 10000) in paragraph at lines 641--641
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 722--722
+Underfull \hbox (badness 10000) in paragraph at lines 654--654
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 722--722
+Underfull \hbox (badness 10000) in paragraph at lines 654--654
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 722--722
+Underfull \hbox (badness 10000) in paragraph at lines 654--654
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 722--722
+Underfull \hbox (badness 10000) in paragraph at lines 654--654
 
  []
 
 [5]
-Underfull \hbox (badness 10000) in paragraph at lines 788--788
+Underfull \hbox (badness 10000) in paragraph at lines 773--773
 
  []
 
 
 AED: lastpage setting LastPage
 [6]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 895.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 895.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 880.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 880.
  (./CV_JDHarris_March2021.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 895.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 895.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 880.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 880.
 Package rerunfilecheck Info: File `CV_JDHarris_March2021.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E.
-
-
-LaTeX Font Warning: Some font shapes were not available, defaults substituted.
-
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 895.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 880.
  ) 
 Here is how much of TeX's memory you used:
- 21136 strings out of 492970
- 403102 string characters out of 6133938
+ 21135 strings out of 492970
+ 403064 string characters out of 6133938
  543355 words of memory out of 5000000
- 25027 multiletter control sequences out of 15000+600000
+ 25026 multiletter control sequences out of 15000+600000
  530720 words of font info for 34 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 59i,11n,66p,10468b,347s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 59i,11n,66p,10476b,347s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on CV_JDHarris_March2021.pdf (6 pages).
